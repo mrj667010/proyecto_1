@@ -1,0 +1,3 @@
+infomación del proyecto > hola.txt
+
+echo infomación del proyecto
