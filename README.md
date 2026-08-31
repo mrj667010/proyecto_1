@@ -1,1 +1,1 @@
-# proyecto_1
+proyecto de practica con git en termianl 
